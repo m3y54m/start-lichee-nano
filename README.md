@@ -68,4 +68,31 @@ Notes:
 
 ## Resources
 
+### English
+
 - [Sipeed Lichee Nano Linux Development Board - Seeed Studio](https://www.seeedstudio.com/Sipeed-Lichee-Nano-Linux-Development-Board-16M-Flash-WiFi-Version-p-2893.html)
+- [Using F1C100s SoCs with Linux with comparable cost as microcontrollers](https://blog.expertise.dev/2021-04-29-Using-F1C100s-SoCs-with-Linux-with-comparable-cost-as-microcontrollers/)
+- [Building Buildroot & linux on Allwinner F1C100S](https://qyx.krtko.org/tutorials/f1c100s.html)
+- [Setting up embedded Linux on Lichee Pi Nano](https://unframework.com/2020/05/27/setting-up-embedded-linux-on-lichee-pi-nano/)
+- [My Business Card Runs Linux](https://www.thirtythreeforty.net/posts/2019/12/my-business-card-runs-linux/)
+- [A Buildroot distribution small enough to run on my business card](https://github.com/thirtythreeforty/businesscard-linux)
+- [F1C100s - linux-sunxi.org](https://linux-sunxi.org/F1C100s)
+- [F1C100s Datasheet V1.0](https://linux-sunxi.org/images/b/ba/F1C100s_Datasheet_V1.0.pdf)
+- [Allwinner F1C200s User Manual V1.2.pdf](https://linux-sunxi.org/images/5/56/Allwinner_F1C200s_User_Manual_V1.2.pdf)
+- [Config files for full Lichee Pi Nano Linux image build](https://github.com/unframework/licheepi-nano-buildroot)
+- [Yocto meta-layer for Lichee Pi Nano ](https://github.com/voloviq/meta-licheepinano)
+- [Lichee Pi Nano Buildroot External Tree](https://github.com/florpor/licheepi-nano)
+- [play with allwinner f1c100s/f1c200s](https://github.com/suda-morris/suda-f1c100s)
+- [Linux for the Hantek DSO2000 series using Buildroot](https://github.com/AndrewBCN/Hantek_DSO2x1x_Linux)
+
+### Persian / فارسی
+
+<div dir="rtl">
+
+- [امبدد لینوکس – قسمت دهم – ضمیمه راه اندازی سخت افزار (بخش ششم)](https://sisoog.com/2020/09/21/%d8%a7%d9%85%d8%a8%d8%af%d8%af-%d9%84%db%8c%d9%86%d9%88%da%a9%d8%b3-%d9%82%d8%b3%d9%85%d8%aa-%d8%af%d9%87%d9%85-%d8%b6%d9%85%db%8c%d9%85%d9%87-%d8%b1%d8%a7%d9%87-%d8%a7%d9%86%d8%af/)
+- [کار با تراشه F1C100S – قسمت دوم – مقدمه ای بر buildroot](https://sisoog.com/2022/01/04/buildroot/)
+- [کار با تراشه F1C100S – قسمت سوم – ساخت ایمیج](https://sisoog.com/2022/01/12/%da%a9%d8%a7%d8%b1-%d8%a8%d8%a7-%d8%aa%d8%b1%d8%a7%d8%b4%d9%87-f1c100s-%d9%82%d8%b3%d9%85%d8%aa-%d8%b3%d9%88%d9%85-%d8%b3%d8%a7%d8%ae%d8%aa-%d8%a7%db%8c%d9%85%db%8c%d8%ac/)
+- [کار با تراشه F1C100S – قسمت پنجم – راه اندازی وای فای (wifi)](https://sisoog.com/2023/05/25/f1c100s-rtl-wifi/)
+- [کار با f1c100s بدون سیستم عامل (BareMetal) – قسمت اول](https://sisoog.com/2022/09/11/f1c100s-baremetal/)
+
+</div>
