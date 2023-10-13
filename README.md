@@ -64,9 +64,8 @@ Notes:
 ## Development Materials
 
 - [Lichee-Pi GitHub](https://github.com/Lichee-Pi)
-- [Lichee Nano - Docs](https://github.com/Lichee-Pi/Lichee-Nano-Doc-us-english)
-- [Lichee Nano - SDK](https://dl.sipeed.com/fileDownload?verify_code=fdpo&file_url=LICHEE/Nano/SDK/licheepi-nano-docker-v1_0.tgz)
-- [Lichee Nano - Image](https://files.seeedstudio.com/products/102110201/Lichee%20Nano/%E9%95%9C%E5%83%8F/openwrt_sunxi_arm9_suniv_f1c100s.gz)
+- [Lichee Nano Official Development Materials (HDK / SDK / Document / Image)](https://dl.sipeed.com/shareURL/LICHEE/Nano)
+- [Lichee Nano Official Development Materials (HDK / SDK / Document / Image) - Mirror on MEGA.NZ](https://mega.nz/folder/A8g1Hb4J#WcuoqvbpasKlVB8-YEpWPA/folder/9ppSVKhC)
 - [XBOOT - The extensible bootloader for embedded system with application engine](https://xboot.org/xboot/)
 - [XFEL - Tiny FEL tools for Allwinner SOC](https://xboot.org/xfel/)
 
@@ -80,6 +79,7 @@ Notes:
 - [Setting up embedded Linux on Lichee Pi Nano](https://unframework.com/2020/05/27/setting-up-embedded-linux-on-lichee-pi-nano/)
 - [My Business Card Runs Linux](https://www.thirtythreeforty.net/posts/2019/12/my-business-card-runs-linux/)
 - [A Buildroot distribution small enough to run on my business card](https://github.com/thirtythreeforty/businesscard-linux)
+- [Lichee-Nano-Doc-us-english](https://github.com/Lichee-Pi/Lichee-Nano-Doc-us-english)
 - [F1C100s - linux-sunxi.org](https://linux-sunxi.org/F1C100s)
 - [F1C100s Datasheet V1.0](https://linux-sunxi.org/images/b/ba/F1C100s_Datasheet_V1.0.pdf)
 - [Allwinner F1C200s User Manual V1.2.pdf](https://linux-sunxi.org/images/5/56/Allwinner_F1C200s_User_Manual_V1.2.pdf)
