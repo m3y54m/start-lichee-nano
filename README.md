@@ -8,6 +8,8 @@ Lichee Nano is an SD card sized Linux development board powered by Allwinner F1C
 
 ## Specification
 
+![image](https://github.com/m3y54m/start-lichee-nano/assets/1549028/e361d6d1-7adb-4e44-b598-3c3c196b11cb)
+
 CPU:
 
 - Allwinner F1C100s, ARM 926EJS processor, up to 900MHz
