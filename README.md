@@ -1,6 +1,6 @@
-# Getting started with Sipeed Lichee Nano Board
+# Getting started with Sipeed Lichee Nano board
 
-Lichee Nano is an SD Card Sized Linux Development Board Powered by Allwinner F1C100s ARM9 Processor.
+Lichee Nano is an SD card sized Linux development board powered by Allwinner F1C100s ARM9 processor.
 
 ![Lichee Nano 22](https://github.com/m3y54m/start-lichee-nano/assets/1549028/81202e3a-9422-4796-94ae-4c710f5b97d1)
 
