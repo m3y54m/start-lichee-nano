@@ -65,6 +65,8 @@ Notes:
 - [Lichee Nano - Docs](https://github.com/Lichee-Pi/Lichee-Nano-Doc-us-english)
 - [Lichee Nano - SDK](https://dl.sipeed.com/fileDownload?verify_code=fdpo&file_url=LICHEE/Nano/SDK/licheepi-nano-docker-v1_0.tgz)
 - [Lichee Nano - Image](https://files.seeedstudio.com/products/102110201/Lichee%20Nano/%E9%95%9C%E5%83%8F/openwrt_sunxi_arm9_suniv_f1c100s.gz)
+- [XBOOT - The extensible bootloader for embedded system with application engine](https://xboot.org/xboot/)
+- [XFEL - Tiny FEL tools for Allwinner SOC](https://xboot.org/xfel/)
 
 ## Resources
 
