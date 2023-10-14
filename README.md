@@ -2,11 +2,13 @@
 
 Lichee Nano is an SD card sized Linux development board powered by Allwinner F1C100s ARM9 processor.
 
-![Lichee Nano 22](https://github.com/m3y54m/start-lichee-nano/assets/1549028/81202e3a-9422-4796-94ae-4c710f5b97d1)
+![lichee-nano](https://github.com/m3y54m/start-lichee-nano/assets/1549028/72aecc1e-9d74-40e7-ba1e-888e73465a00)
 
 ![Lichee Nano Pin](https://github.com/m3y54m/start-lichee-nano/assets/1549028/0c55f675-7a9b-4e20-b394-b7b9f1700098)
 
 ## Specification
+
+![F1C100s](https://github.com/m3y54m/start-lichee-nano/assets/1549028/67e79b4b-9c60-4663-a777-a9551992eeaa)
 
 ![image](https://github.com/m3y54m/start-lichee-nano/assets/1549028/e361d6d1-7adb-4e44-b598-3c3c196b11cb)
 
@@ -63,11 +65,13 @@ Notes:
 
 ## Development Materials
 
-- [Lichee-Pi GitHub](https://github.com/Lichee-Pi)
+- [Lichee Nano Official Documents (Chinese)](https://wiki.sipeed.com/soft/Lichee/zh/Nano-Doc-Backup/index.html)
 - [Lichee Nano Official Development Materials (HDK / SDK / Document / Image)](https://dl.sipeed.com/shareURL/LICHEE/Nano)
 - [Lichee Nano Official Development Materials (HDK / SDK / Document / Image) - Mirror on MEGA.NZ](https://mega.nz/folder/A8g1Hb4J#WcuoqvbpasKlVB8-YEpWPA/folder/9ppSVKhC)
 - [XBOOT - The extensible bootloader for embedded system with application engine](https://xboot.org/xboot/)
 - [XFEL - Tiny FEL tools for Allwinner SOC](https://xboot.org/xfel/)
+- [Building a Linux image for Lichee Nano from scratch](https://github.com/haoliver/lichee-nano)
+- [How to enter FEL mode on Lichee nano](https://gist.github.com/squeuei/280339368e85b9faf4d756aad8171379)
 
 ## Resources
 
