@@ -65,12 +65,15 @@ Notes:
 
 ## Development Materials
 
-- [Lichee Nano Official Documents (Chinese)](https://wiki.sipeed.com/soft/Lichee/zh/Nano-Doc-Backup/index.html)
+- [📍 Lichee Nano Official Documents (Chinese)](https://wiki.sipeed.com/soft/Lichee/zh/Nano-Doc-Backup/index.html)
 - [Lichee Nano Official Development Materials (HDK / SDK / Document / Image)](https://dl.sipeed.com/shareURL/LICHEE/Nano)
 - [Lichee Nano Official Development Materials (HDK / SDK / Document / Image) - Mirror on MEGA.NZ](https://mega.nz/folder/A8g1Hb4J#WcuoqvbpasKlVB8-YEpWPA/folder/9ppSVKhC)
 - [XBOOT - The extensible bootloader for embedded system with application engine](https://xboot.org/xboot/)
 - [XFEL - Tiny FEL tools for Allwinner SOC](https://xboot.org/xfel/)
-- [Building a Linux image for Lichee Nano from scratch](https://github.com/haoliver/lichee-nano)
+- [ARM GCC Cross-Compiler (Recommended Version)](http://releases.linaro.org/components/toolchain/binaries/7.2-2017.11/arm-linux-gnueabi/gcc-linaro-7.2.1-2017.11-x86_64_arm-linux-gnueabi.tar.xz)
+- [U-Boot for Lichee Nano](https://gitee.com/LicheePiNano/u-boot/tree/nano-lcd800480/)
+- [sunxi-tools](https://github.com/Icenowy/sunxi-tools)
+- [📍 Building a Linux image for Lichee Nano from scratch](https://github.com/haoliver/lichee-nano)
 - [How to enter FEL mode on Lichee nano](https://gist.github.com/squeuei/280339368e85b9faf4d756aad8171379)
 
 ## Resources
