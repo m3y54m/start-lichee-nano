@@ -8,9 +8,9 @@ Lichee Nano is an SD card sized Linux development board powered by Allwinner F1C
 
 ## Specification
 
-![image](https://github.com/m3y54m/start-lichee-nano/assets/1549028/8834a219-f0c8-4bd1-8eb9-384d1c8b0938)
-
 ![image](https://github.com/m3y54m/start-lichee-nano/assets/1549028/e361d6d1-7adb-4e44-b598-3c3c196b11cb)
+
+![image](https://github.com/m3y54m/start-lichee-nano/assets/1549028/8834a219-f0c8-4bd1-8eb9-384d1c8b0938)
 
 CPU:
 
@@ -72,7 +72,9 @@ Notes:
 - [XFEL - Tiny FEL tools for Allwinner SOC](https://xboot.org/xfel/)
 - [ARM GCC Cross-Compiler (Recommended Version)](http://releases.linaro.org/components/toolchain/binaries/7.2-2017.11/arm-linux-gnueabi/gcc-linaro-7.2.1-2017.11-x86_64_arm-linux-gnueabi.tar.xz)
 - [U-Boot for Lichee Nano](https://gitee.com/LicheePiNano/u-boot/tree/nano-lcd800480/)
+- [U-Boot for Lichee Nano (Mirror on GitHub)](https://github.com/m3y54m/u-boot-for-lichee-nano/tree/nano-lcd800480)
 - [sunxi-tools](https://github.com/Icenowy/sunxi-tools)
+- [FEL](https://linux-sunxi.org/FEL)
 - [📍 Building a Linux image for Lichee Nano from scratch](https://github.com/haoliver/lichee-nano)
 - [How to enter FEL mode on Lichee nano](https://gist.github.com/squeuei/280339368e85b9faf4d756aad8171379)
 
@@ -89,7 +91,8 @@ Notes:
 - [Lichee-Nano-Doc-us-english](https://github.com/Lichee-Pi/Lichee-Nano-Doc-us-english)
 - [F1C100s - linux-sunxi.org](https://linux-sunxi.org/F1C100s)
 - [F1C100s Datasheet V1.0](https://linux-sunxi.org/images/b/ba/F1C100s_Datasheet_V1.0.pdf)
-- [Allwinner F1C200s User Manual V1.2.pdf](https://linux-sunxi.org/images/5/56/Allwinner_F1C200s_User_Manual_V1.2.pdf)
+- [F1C600 User Manual V1.0](https://linux-sunxi.org/images/8/85/Allwinner_F1C600_User_Manual_V1.0.pdf)
+- [F1C100S tutorials on steward-fu.github.io](https://steward-fu.github.io/website/mcu.htm#lichee-nano)
 - [Config files for full Lichee Pi Nano Linux image build](https://github.com/unframework/licheepi-nano-buildroot)
 - [Yocto meta-layer for Lichee Pi Nano ](https://github.com/voloviq/meta-licheepinano)
 - [Lichee Pi Nano Buildroot External Tree](https://github.com/florpor/licheepi-nano)
