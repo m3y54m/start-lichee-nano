@@ -99,6 +99,7 @@ Notes:
 - [play with allwinner f1c100s/f1c200s](https://github.com/suda-morris/suda-f1c100s)
 - [Linux for the Hantek DSO2000 series using Buildroot](https://github.com/AndrewBCN/Hantek_DSO2x1x_Linux)
 - [Low-level libraries and bare metal projects for allwinner F1C100s SOC](https://github.com/nminaylov/F1C100s_projects)
+- [licheepi_nano_sdk](https://github.com/ninhnn2/licheepi_nano_sdk)
 
 ### Persian / فارسی
 
